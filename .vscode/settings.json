@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true, 
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
